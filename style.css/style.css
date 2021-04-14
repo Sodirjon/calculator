@@ -75,10 +75,13 @@ tr{
 }
 @media(max-width:420px){
     .container{
-        width: 90%;
+        width: 320px;
     }
     .box-calculator{
         width: 80%;
 
+    }
+    .calc-form{
+        width: 100%;
     }
 }
