@@ -68,24 +68,11 @@ tr{
     padding: 10px 20px;
     border-radius: 10px;
 }
-@media(max-width:800px){
-    .container{
-        width: 700px;
-    }
-}
-@media(max-width:420px){
-    .container{
-        width: 320px;
-    }
-    .box-calculator{
-        width: 80%;
-
-    }
-    .calc-form{
-        width: 100%;
-    }
-    .number{
-        margin:5px;
-        padding: 5px;
-    }
+@media (max-width:1040px) {
+     .container{
+         width: 920px;
+     }
+   .calc-form{
+       width: 80%;
+   }
 }
