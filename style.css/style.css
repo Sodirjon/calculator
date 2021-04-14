@@ -84,4 +84,7 @@ tr{
     .calc-form{
         width: 100%;
     }
+    .number{
+        margin:5px;
+    }
 }
